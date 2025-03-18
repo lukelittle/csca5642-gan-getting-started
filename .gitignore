@@ -53,6 +53,10 @@ logs/
 tensorboard/
 runs/
 
+# Generated images
+**/generated_images/
+**/submission/
+
 # OS specific
 .DS_Store
 .DS_Store?
